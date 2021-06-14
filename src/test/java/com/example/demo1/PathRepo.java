@@ -5,7 +5,7 @@ class PathRepo {
     public static  String Day="1";
     public static  String Month="May";
     public static  String Year="1977";
-    public static String mail="35m1.652@yahoo.it";
+    public static String mail="m1.12@yahoo.it";
     public static String fname="name";
     public static String lname="lastname";
     public static String password="password";
